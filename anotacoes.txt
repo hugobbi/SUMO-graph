@@ -1,0 +1,2 @@
+- quais informacoes do grafo alem de vertices vizinhos guardar
+- mesmo link mas step diferente entra nos vizinhos?
