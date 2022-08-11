@@ -829,8 +829,5 @@ if nova_lista_medidas != ["none"]:
 
 dict_vizinhos = cria_dicionario_vizinhos_links(g, keys, intervalo=1, max_step=calcula_max_step(lista_dict, keys))
 
-print(dict_vizinhos["L3"])
-print(dict_vizinhos["L4"])
-
 t_total = time.time() - t_inicio # Temporizador de saída
 print(f"Finalizou em {t_total:.4f} segundos")
